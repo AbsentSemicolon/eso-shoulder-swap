@@ -1,9 +1,9 @@
 {
-    "name": "ESO Shoulder Swap",
+    "name": "eso_shoulder_swap",
     "description": "Shoulder Swap Mod for Elder Scrolls Online",
     "author": {
         "name": "Christopher Tetreault",
-        "url" : "http://missingsemicolon.net"
+        "url": "http://missingsemicolon.net"
     },
     "keywords": [
         "elder scrolls online",
@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/AbsentSemicolon/eso-shoulder-swap/issues"
     },
-    "version": "1.0.3"
+    "version": "1.0.4",
+    "scripts": {
+        "zip": "./zipAddonFiles"
+    }
 }

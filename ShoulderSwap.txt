@@ -7,7 +7,7 @@
 ##
 ## Title: Shoulder Swap
 ## Description: Allows the swapping of the camera from shoulder to shoulder for easier sneaking around.
-## APIVersion: 100019
+## APIVersion: 100023
 ## Author: MissingSemicolon [US]
 ## Version: 1.0.3
 
