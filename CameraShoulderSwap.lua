@@ -1,4 +1,4 @@
-local ADDON_NAME = "ShoulderSwap"
+local ADDON_NAME = "CameraShoulderSwap"
 
 local function OnAddOnLoaded(_, addonName)
     if addonName == ADDON_NAME then
@@ -20,4 +20,4 @@ function swapShoulder()
 end
 
 EVENT_MANAGER:RegisterForEvent(ADDON_NAME, EVENT_ADD_ON_LOADED, OnAddOnLoaded)
-ZO_CreateStringId("SI_BINDING_NAME_SWAP_SHOULDER", "Swap Shoulder")
+ZO_CreateStringId("SI_BINDING_NAME_SWAP_SHOULDER", "Camera Swap Shoulder")
